@@ -19,3 +19,4 @@ cp .env.example .env
 docker-compose up --build
 
 ```
+Go to http://127.0.0.1:8098/
